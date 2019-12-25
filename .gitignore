@@ -1,0 +1,5 @@
+build/
+dist/
+jailcaliber.egg-info/
+__pycache__/
+.vscode/
